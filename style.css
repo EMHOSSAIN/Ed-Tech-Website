@@ -1,0 +1,30 @@
+@media screen and (max-width:576px){
+   .media-queries {
+      flex-direction: column;
+   }
+   .media-queries img{
+      width: 100%;
+   }
+   .Register{
+      flex-direction: column;
+   }
+   .hidden{
+      visibility: hidden;
+   }
+
+}
+@media screen and (max-width:768px){
+   .hidden{
+      visibility: hidden;
+   }
+   .Register{
+      flex-direction: column;
+   }
+}
+
+
+  
+
+  
+
+
